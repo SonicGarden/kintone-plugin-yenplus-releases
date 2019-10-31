@@ -1,0 +1,2 @@
+# kintone-plugin-yenplus-releases
+kintoneの送付先情報を利用してyenplus上で年賀状を生成するプラグイン
